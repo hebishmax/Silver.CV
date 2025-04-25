@@ -1,33 +1,31 @@
+Silver.CV - Web3 Programming and Marketing Training Center for Startups
 
-Silver.CV - مركز تدريب برمجة وتسويق Web3 للمجتمعات الناشئة
+From the heart of the MENA region, we are building an open project that makes Web3 tools accessible to everyone.
 
-من قلب منطقة الشرق الأوسط وشمال إفريقيا، نبني مشروعًا مفتوحًا يضع أدوات Web3 في متناول الجميع.
+The Idea
 
-الفكرة
+Silver.CV is a training center focused on empowering individuals to learn programming and understand Web3 technologies, offering specialized programs in Arabic, including smart contracts, decentralized application development, and digital marketing for Web3-based projects.
 
-Silver.CV هو مركز تدريبي يركز على تمكين الأفراد من تعلم البرمجة وفهم تقنيات Web3، مع تقديم برامج متخصصة باللغة العربية تشمل العقود الذكية، تطوير التطبيقات اللامركزية، والتسويق الرقمي للمشاريع المبنية على Web3.
+Why Silver.CV?
 
-لماذا Silver.CV؟
+Because digital literacy is a right for everyone.
 
-لأن المعرفة الرقمية حق للجميع.
+Because our region deserves training content in its own language and environment.
 
-لأن منطقتنا تستحق محتوى تدريبي بلغتها وبيئتها.
+Because Web3 is the future of the internet, and we must be part of its industry, not just its users.
 
-لأن Web3 هو مستقبل الإنترنت، ويجب أن نكون جزءًا من صناعته لا مجرد مستخدمين له.
+The Challenge
 
+As a founder, I worked on building focused content, designing the program, and attracting interested parties from the region. We are trying to seek support from institutions concerned with digital empowerment. The real challenge? Resources. The estimated cost exceeds 30,000 euros, and self-funding is limited.
 
-التحدي
+ Open Call
 
-كمؤسس، عملت على بناء المحتوى المركز، تصميم البرنامج، واستقطاب المهتمين من المنطقة. نحاول طلب دعم من المؤسسات المعنية بالتمكين الرقمي. التحدي الحقيقي؟ هو الموارد. التكلفة التقديرية تتجاوز 30,000 يورو، والتمويل الذاتي محدود.
+We are opening this project to all programmers, marketers, and trainers to contribute to its development and promote Web3 in our language and identity. We also welcome organizations like the Ethereum Foundation or anyone who believes in the importance of decentralized education.
 
-دعوة مفتوحة
+Are you interested?
 
-نفتح هذا المشروع لجميع المبرمجين، المسوقين، والمدربين للمساهمة في تطويره، وتعزيز وجود Web3 بلغتنا وهويتنا. كما نرحب بمؤسسات مثل Ethereum Foundation أو أي جهة تؤمن بأهمية التعليم اللامركزي.
+Follow the project at: https://v0-silver-nine.vercel.app/
 
-هل أنت مهتم؟
+Contribute on GitHub
 
-تابع المشروع عبر الموقع: https://v0-silver-nine.vercel.app/
-
-شارك على GitHub
-
-أو ساهم بفكرة، ترجمة، تصميم، أو محتوى تدريبي
+Or contribute an idea, translation, design, or training content.
