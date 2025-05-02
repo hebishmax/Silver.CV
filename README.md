@@ -16,7 +16,7 @@ Because Web3 is the future of the internet, and we must be part of its industry,
 
 The Challenge
 
-As a founder, I worked on building focused content, designing the program, and attracting interested parties from the region. We are trying to seek support from institutions concerned with digital empowerment. The real challenge? Resources. The estimated cost exceeds 30,000 euros, and self-funding is limited.
+As a founder, I worked on building focused content, designing the program, and attracting interested parties from the region. We are trying to seek support from institutions concerned with digital empowerment. The real challenge? Resources. The estimated cost exceeds thousands of dollars, and self-funding is limited.
 
  Open Call
 
